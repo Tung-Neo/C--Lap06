@@ -1,0 +1,3 @@
+C:\Users\ACER\source\repos\Session 8\Snippet 3\obj\Debug\netcoreapp3.1\Snippet 3.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Session 8\Snippet 3\obj\Debug\netcoreapp3.1\Snippet 3.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Session 8\Snippet 3\obj\Debug\netcoreapp3.1\Snippet 3.csproj.CoreCompileInputs.cache

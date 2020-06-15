@@ -1,0 +1,12 @@
+C:\Users\ACER\source\repos\Session 8\Animal2\bin\Debug\netcoreapp3.1\Animal2.exe
+C:\Users\ACER\source\repos\Session 8\Animal2\bin\Debug\netcoreapp3.1\Animal2.deps.json
+C:\Users\ACER\source\repos\Session 8\Animal2\bin\Debug\netcoreapp3.1\Animal2.runtimeconfig.json
+C:\Users\ACER\source\repos\Session 8\Animal2\bin\Debug\netcoreapp3.1\Animal2.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Session 8\Animal2\bin\Debug\netcoreapp3.1\Animal2.dll
+C:\Users\ACER\source\repos\Session 8\Animal2\bin\Debug\netcoreapp3.1\Animal2.pdb
+C:\Users\ACER\source\repos\Session 8\Animal2\obj\Debug\netcoreapp3.1\Animal2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Session 8\Animal2\obj\Debug\netcoreapp3.1\Animal2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Session 8\Animal2\obj\Debug\netcoreapp3.1\Animal2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Session 8\Animal2\obj\Debug\netcoreapp3.1\Animal2.dll
+C:\Users\ACER\source\repos\Session 8\Animal2\obj\Debug\netcoreapp3.1\Animal2.pdb
+C:\Users\ACER\source\repos\Session 8\Animal2\obj\Debug\netcoreapp3.1\Animal2.genruntimeconfig.cache
